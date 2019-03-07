@@ -1,0 +1,30 @@
+The target system is: Generic -  - wasm
+The host system is: Linux - 4.15.0-34-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/abinesh/eosio.cdt/build/bin/eosio-cc 
+Build flags: ;-O3;
+Id flags:  
+
+The output was:
+0
+/home/abinesh/eosio.cdt/build/bin/wasm-ld: error: undefined symbol: apply
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/3.10.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/abinesh/eosio.cdt/build/bin/eosio-cpp 
+Build flags: ;-O3;
+Id flags:  
+
+The output was:
+0
+/home/abinesh/eosio.cdt/build/bin/wasm-ld: error: undefined symbol: apply
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/3.10.1/CompilerIdCXX/a.out"
+

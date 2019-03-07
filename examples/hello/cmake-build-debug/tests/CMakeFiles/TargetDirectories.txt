@@ -1,0 +1,3 @@
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/hello_test.dir

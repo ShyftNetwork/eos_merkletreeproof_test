@@ -1,0 +1,1 @@
+/usr/local/eosio.cdt/bin/eosio-ld -fnative CMakeFiles/hello_test.dir/hello_test.o CMakeFiles/hello_test.dir/home/abinesh/eosio.cdt/examples/hello/src/hello.o -o hello_test

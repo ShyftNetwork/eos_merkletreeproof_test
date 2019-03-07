@@ -1,0 +1,14 @@
+# Target labels
+ EosioClang
+# Source files and their labels
+/home/abinesh/eosio.cdt/build/CMakeFiles/EosioClang
+/home/abinesh/eosio.cdt/build/CMakeFiles/EosioClang.rule
+/home/abinesh/eosio.cdt/build/CMakeFiles/EosioClang-complete.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-install.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-mkdir.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-download.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-update.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-patch.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-configure.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-build.rule
+/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-test.rule

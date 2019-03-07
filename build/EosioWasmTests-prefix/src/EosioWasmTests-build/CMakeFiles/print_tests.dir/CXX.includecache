@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abinesh/eosio.cdt/tests/unit/print_tests.cpp
+eosiolib/eosio.hpp
+-
+eosio/native/tester.hpp
+-
+

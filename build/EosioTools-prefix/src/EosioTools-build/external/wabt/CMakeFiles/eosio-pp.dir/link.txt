@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/eosio-pp.dir/src/tools/postpass.cc.o  -o eosio-pp  -L/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib -Wl,-rpath,/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib libwabt.a 

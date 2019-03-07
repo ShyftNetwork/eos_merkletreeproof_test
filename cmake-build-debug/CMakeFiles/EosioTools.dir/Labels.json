@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/CMakeFiles/EosioTools"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/CMakeFiles/EosioTools.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/CMakeFiles/EosioTools-complete.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-install.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-mkdir.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-download.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-update.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-patch.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-configure.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-build.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/cmake-build-debug/EosioTools-prefix/src/EosioTools-stamp/EosioTools-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EosioTools"
+		],
+		"name" : "EosioTools"
+	}
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\eosio.cdt\;CMake Files\..\..\..\..\..\usr\local\eosio.cdt\;CMake Files\..\..\..\..\..\usr\local\eosio.cdt\lib\;CMake Files\..\..\..\..\..\usr\local\eosio.cdt\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\eosio.cdt\lib\cmake\eosio.cdt\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\hello_project-prefix\;CMake Files\cmake-build-debug\hello_project-prefix\tmp\;CMake Files\cmake-build-debug\hello_tests_project-prefix\;CMake Files\cmake-build-debug\hello_tests_project-prefix\tmp\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_tests_project">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello_tests_project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_project">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello_project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/abinesh/eosio.cdt/examples/hello/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/abinesh/eosio.cdt/examples/hello/../../../../../usr/local/lib/cmake/eosio.cdt/eosio.cdt-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\eosio.cdt\"/>
+		</Unit>
+		<Unit filename="/home/abinesh/eosio.cdt/examples/hello/../../../../../usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioCDTMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\eosio.cdt\lib\cmake\eosio.cdt\"/>
+		</Unit>
+		<Unit filename="/home/abinesh/eosio.cdt/examples/hello/../../../../../usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\eosio.cdt\lib\cmake\eosio.cdt\"/>
+		</Unit>
+		<Unit filename="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/tmp/hello_project-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\hello_project-prefix\tmp\"/>
+		</Unit>
+		<Unit filename="/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/tmp/hello_tests_project-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\hello_tests_project-prefix\tmp\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

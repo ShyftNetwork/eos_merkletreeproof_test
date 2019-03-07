@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioWasmTests"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioWasmTests.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioWasmTests-complete.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-install.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-mkdir.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-download.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-update.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-patch.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-configure.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-build.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EosioWasmTests"
+		],
+		"name" : "EosioWasmTests"
+	}
+}

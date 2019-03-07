@@ -1,0 +1,5 @@
+/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/rebuild_cache.dir
+/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/name_tests.dir
+/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/system_tests.dir
+/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/print_tests.dir
+/home/abinesh/eosio.cdt/build/EosioWasmTests-prefix/src/EosioWasmTests-build/CMakeFiles/edit_cache.dir

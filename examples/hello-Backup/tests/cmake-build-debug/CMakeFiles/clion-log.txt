@@ -1,0 +1,59 @@
+/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/abinesh/eosio.cdt/examples/hello/tests
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Setting up Eosio Wasm Toolchain 1.5.0 at /usr/local/eosio.cdt
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.10)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/abinesh/eosio.cdt/examples/hello/tests/cmake-build-debug
+
+Cannot get compiler information:
+	Compiler exited with error code 255: /usr/local/eosio.cdt/bin/eosio-cpp -xc++ -I/home/abinesh/eosio.cdt/examples/hello/tests/../include -O3 -g -fnative -fpch-preprocess -v -dD -E
+	clang version 7.0.0 (https://github.com/eosio/clang.git 3e38ccb3dacee8c53ed6d3d5a59d1f6d4f0c96cf) (https://github.com/eosio/llvm 798a37dc0de68ba4fd5bb2988e45f7d022b3bb65)
+	Target: x86_64-unknown-linux-gnu
+	Thread model: posix
+	InstalledDir: /usr/local/eosio.cdt/bin
+	clang-7: warning: /tmp/compiler-file: 'linker' input unused [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-msoft-float' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-mno-implicit-float' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-D EOSIO_NATIVE' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-D LP64' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-fno-threadsafe-statics' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-fno-exceptions' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-fmodules-ts' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-D BOOST_DISABLE_ASSERTS' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-D BOOST_EXCEPTION_DISABLE' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-fplugin=/usr/local/eosio.cdt/bin/eosio_plugin.so' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-mllvm -use-cfl-aa-in-codegen=both' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-I /usr/local/eosio.cdt/bin/../include/libcxx' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-I /usr/local/eosio.cdt/bin/../include/libc' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-I /usr/local/eosio.cdt/bin/../include' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-c' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-dD' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-D ___CIDR_DEFINITIONS_END' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-g' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '-I /home/abinesh/eosio.cdt/examples/hello/tests/../include' [-Wunused-command-line-argument]
+	clang-7: warning: argument unused during compilation: '--std=c++17' [-Wunused-command-line-argument]
+	
+	

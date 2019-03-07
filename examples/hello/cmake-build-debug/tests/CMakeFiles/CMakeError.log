@@ -1,0 +1,88 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_acd22/fast"
+make[4]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_acd22.dir/build.make CMakeFiles/cmTC_acd22.dir/build
+make[5]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_acd22.dir/CMakeCCompilerABI.c.obj
+/usr/local/eosio.cdt/bin/eosio-cc    -o CMakeFiles/cmTC_acd22.dir/CMakeCCompilerABI.c.obj   -c /home/abinesh/clion-2018.1.1/bin/cmake/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_acd22.wasm
+/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_acd22.dir/link.txt --verbose=1
+/usr/local/eosio.cdt/bin/eosio-ld  -v CMakeFiles/cmTC_acd22.dir/CMakeCCompilerABI.c.obj -o cmTC_acd22.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/usr/local/eosio.cdt/bin/eosio-ld -help'
+eosio-ld: Did you mean '-l'?
+CMakeFiles/cmTC_acd22.dir/build.make:97: recipe for target 'cmTC_acd22.wasm' failed
+make[5]: *** [cmTC_acd22.wasm] Error 1
+make[5]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_acd22/fast' failed
+make[4]: *** [cmTC_acd22/fast] Error 2
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9d1ae/fast"
+make[4]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_9d1ae.dir/build.make CMakeFiles/cmTC_9d1ae.dir/build
+make[5]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9d1ae.dir/feature_tests.c.obj
+/usr/local/eosio.cdt/bin/eosio-cc   -std=c11 -o CMakeFiles/cmTC_9d1ae.dir/feature_tests.c.obj   -c /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/feature_tests.c
+eosio-cc: Unknown command line argument '-std=c11'.  Try: '/usr/local/eosio.cdt/bin/eosio-cc -help'
+eosio-cc: Did you mean '-dD=c11'?
+CMakeFiles/cmTC_9d1ae.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9d1ae.dir/feature_tests.c.obj' failed
+make[5]: *** [CMakeFiles/cmTC_9d1ae.dir/feature_tests.c.obj] Error 1
+make[5]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9d1ae/fast' failed
+make[4]: *** [cmTC_9d1ae/fast] Error 2
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_919d0/fast"
+make[4]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_919d0.dir/build.make CMakeFiles/cmTC_919d0.dir/build
+make[5]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_919d0.dir/CMakeCXXCompilerABI.cpp.obj
+/usr/local/eosio.cdt/bin/eosio-cpp     -o CMakeFiles/cmTC_919d0.dir/CMakeCXXCompilerABI.cpp.obj -c /home/abinesh/clion-2018.1.1/bin/cmake/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_919d0.wasm
+/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_919d0.dir/link.txt --verbose=1
+/usr/local/eosio.cdt/bin/eosio-ld  -v CMakeFiles/cmTC_919d0.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_919d0.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/usr/local/eosio.cdt/bin/eosio-ld -help'
+eosio-ld: Did you mean '-l'?
+CMakeFiles/cmTC_919d0.dir/build.make:97: recipe for target 'cmTC_919d0.wasm' failed
+make[5]: *** [cmTC_919d0.wasm] Error 1
+make[5]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_919d0/fast' failed
+make[4]: *** [cmTC_919d0/fast] Error 2
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3b826/fast"
+make[4]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_3b826.dir/build.make CMakeFiles/cmTC_3b826.dir/build
+make[5]: Entering directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3b826.dir/feature_tests.cxx.obj
+/usr/local/eosio.cdt/bin/eosio-cpp    -std=c++1z -o CMakeFiles/cmTC_3b826.dir/feature_tests.cxx.obj -c /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_3b826.wasm
+/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3b826.dir/link.txt --verbose=1
+/usr/local/eosio.cdt/bin/eosio-ld   CMakeFiles/cmTC_3b826.dir/feature_tests.cxx.obj -o cmTC_3b826.wasm 
+/usr/local/eosio.cdt/bin/wasm-ld: error: undefined symbol: apply
+CMakeFiles/cmTC_3b826.dir/build.make:97: recipe for target 'cmTC_3b826.wasm' failed
+make[5]: *** [cmTC_3b826.wasm] Error 255
+make[5]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3b826/fast' failed
+make[4]: *** [cmTC_3b826/fast] Error 2
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/tests/CMakeFiles/CMakeTmp'
+
+
+

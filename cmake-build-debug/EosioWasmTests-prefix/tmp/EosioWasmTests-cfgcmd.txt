@@ -1,0 +1,1 @@
+cmd='/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/home/abinesh/eosio.cdt/cmake-build-debug/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake;-DEOSIO_CDT_BIN=/home/abinesh/eosio.cdt/cmake-build-debug/lib/cmake/eosio.cdt/;-DBASE_BINARY_DIR=/home/abinesh/eosio.cdt/cmake-build-debug;-D__APPLE=;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

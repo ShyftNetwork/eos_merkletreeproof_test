@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wasm-validate.dir/src/tools/wasm-validate.cc.o  -o wasm-validate  -L/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib -Wl,-rpath,/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib libwabt.a 

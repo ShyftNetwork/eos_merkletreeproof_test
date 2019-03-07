@@ -1,0 +1,184 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c0dd0/fast"
+make[3]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_c0dd0.dir/build.make CMakeFiles/cmTC_c0dd0.dir/build
+make[4]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c0dd0.dir/CMakeCCompilerABI.c.obj
+/home/abinesh/eosio.cdt/build/bin/eosio-cc    -o CMakeFiles/cmTC_c0dd0.dir/CMakeCCompilerABI.c.obj   -c /usr/local/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_c0dd0.wasm
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c0dd0.dir/link.txt --verbose=1
+/home/abinesh/eosio.cdt/build/bin/eosio-ld  -v CMakeFiles/cmTC_c0dd0.dir/CMakeCCompilerABI.c.obj -o cmTC_c0dd0.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-ld -help'
+eosio-ld: Did you mean '-l'?
+CMakeFiles/cmTC_c0dd0.dir/build.make:97: recipe for target 'cmTC_c0dd0.wasm' failed
+make[4]: *** [cmTC_c0dd0.wasm] Error 1
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c0dd0/fast' failed
+make[3]: *** [cmTC_c0dd0/fast] Error 2
+make[3]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_915a6/fast"
+make[3]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_915a6.dir/build.make CMakeFiles/cmTC_915a6.dir/build
+make[4]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_915a6.dir/feature_tests.c.obj
+/home/abinesh/eosio.cdt/build/bin/eosio-cc   -std=c11 -o CMakeFiles/cmTC_915a6.dir/feature_tests.c.obj   -c /home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/feature_tests.c
+eosio-cc: Unknown command line argument '-std=c11'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-dD=c11'?
+CMakeFiles/cmTC_915a6.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_915a6.dir/feature_tests.c.obj' failed
+make[4]: *** [CMakeFiles/cmTC_915a6.dir/feature_tests.c.obj] Error 1
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_915a6/fast' failed
+make[3]: *** [cmTC_915a6/fast] Error 2
+make[3]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4becb/fast"
+make[3]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4becb.dir/build.make CMakeFiles/cmTC_4becb.dir/build
+make[4]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4becb.dir/CMakeCXXCompilerABI.cpp.obj
+/home/abinesh/eosio.cdt/build/bin/eosio-cpp     -o CMakeFiles/cmTC_4becb.dir/CMakeCXXCompilerABI.cpp.obj -c /usr/local/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_4becb.wasm
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4becb.dir/link.txt --verbose=1
+/home/abinesh/eosio.cdt/build/bin/eosio-ld  -v CMakeFiles/cmTC_4becb.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4becb.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-ld -help'
+eosio-ld: Did you mean '-l'?
+CMakeFiles/cmTC_4becb.dir/build.make:97: recipe for target 'cmTC_4becb.wasm' failed
+make[4]: *** [cmTC_4becb.wasm] Error 1
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4becb/fast' failed
+make[3]: *** [cmTC_4becb/fast] Error 2
+make[3]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7dad7/fast"
+make[3]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7dad7.dir/build.make CMakeFiles/cmTC_7dad7.dir/build
+make[4]: Entering directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7dad7.dir/feature_tests.cxx.obj
+/home/abinesh/eosio.cdt/build/bin/eosio-cpp    -std=c++1z -o CMakeFiles/cmTC_7dad7.dir/feature_tests.cxx.obj -c /home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_7dad7.wasm
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7dad7.dir/link.txt --verbose=1
+/home/abinesh/eosio.cdt/build/bin/eosio-ld   CMakeFiles/cmTC_7dad7.dir/feature_tests.cxx.obj -o cmTC_7dad7.wasm 
+/home/abinesh/eosio.cdt/build/bin/wasm-ld: error: unable to find library -lc++
+/home/abinesh/eosio.cdt/build/bin/wasm-ld: error: unable to find library -lc
+/home/abinesh/eosio.cdt/build/bin/wasm-ld: error: unable to find library -leosio
+CMakeFiles/cmTC_7dad7.dir/build.make:97: recipe for target 'cmTC_7dad7.wasm' failed
+make[4]: *** [cmTC_7dad7.wasm] Error 255
+make[4]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7dad7/fast' failed
+make[3]: *** [cmTC_7dad7/fast] Error 2
+make[3]: Leaving directory '/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-build/CMakeFiles/CMakeTmp'
+
+
+
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+eosio-cc version 1.5.0
+Checking whether the ASM compiler is HP using "-V" did not match "HP C":
+eosio-cc: Unknown command line argument '-V'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-C'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is Intel using "--version" did not match "(ICC)":
+eosio-cc version 1.5.0
+Checking whether the ASM compiler is SunPro using "-V" did not match "Sun C":
+eosio-cc: Unknown command line argument '-V'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-C'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is XL using "-qversion" did not match "XL C":
+eosio-cc: Unknown command line argument '-qversion'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-version'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is MSVC using "/?" did not match "Microsoft":
+clang-7: error: no such file or directory: '/?'
+clang-7: error: no input files
+Checking whether the ASM compiler is TI using "-h" did not match "Texas Instruments":
+eosio-cc: Unknown command line argument '-h'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-C'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is IAR using "" did not match "IAR Assembler":
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is ARMCC using "" did not match "(ARM Compiler)|(ARM Assembler)":
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is NASM using "-v" did not match "(NASM version)":
+clang version 7.0.0 (https://github.com/eosio/clang.git 3e38ccb3dacee8c53ed6d3d5a59d1f6d4f0c96cf) (https://github.com/eosio/llvm 798a37dc0de68ba4fd5bb2988e45f7d022b3bb65)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /home/abinesh/eosio.cdt/build/bin
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.4.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6.0.0
+Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.4.0
+Candidate multilib: .;@m64
+Selected multilib: .;@m64
+Checking whether the ASM compiler is YASM using "--version" did not match "(yasm)":
+eosio-cc version 1.5.0
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+eosio-cc version 1.5.0
+Checking whether the ASM compiler is HP using "-V" did not match "HP C":
+eosio-cc: Unknown command line argument '-V'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-C'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is Intel using "--version" did not match "(ICC)":
+eosio-cc version 1.5.0
+Checking whether the ASM compiler is SunPro using "-V" did not match "Sun C":
+eosio-cc: Unknown command line argument '-V'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-C'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is XL using "-qversion" did not match "XL C":
+eosio-cc: Unknown command line argument '-qversion'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-version'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is MSVC using "/?" did not match "Microsoft":
+clang-7: error: no such file or directory: '/?'
+clang-7: error: no input files
+Checking whether the ASM compiler is TI using "-h" did not match "Texas Instruments":
+eosio-cc: Unknown command line argument '-h'.  Try: '/home/abinesh/eosio.cdt/build/bin/eosio-cc -help'
+eosio-cc: Did you mean '-C'?
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is IAR using "" did not match "IAR Assembler":
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is ARMCC using "" did not match "(ARM Compiler)|(ARM Assembler)":
+eosio-cc: Not enough positional command line arguments specified!
+Must specify at least 1 positional argument: See: /home/abinesh/eosio.cdt/build/bin/eosio-cc -help
+Checking whether the ASM compiler is NASM using "-v" did not match "(NASM version)":
+clang version 7.0.0 (https://github.com/eosio/clang.git 3e38ccb3dacee8c53ed6d3d5a59d1f6d4f0c96cf) (https://github.com/eosio/llvm 798a37dc0de68ba4fd5bb2988e45f7d022b3bb65)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /home/abinesh/eosio.cdt/build/bin
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.4.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6.0.0
+Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.4.0
+Candidate multilib: .;@m64
+Selected multilib: .;@m64
+Checking whether the ASM compiler is YASM using "--version" did not match "(yasm)":
+eosio-cc version 1.5.0

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wast2json.dir/src/tools/wast2json.cc.o  -o wast2json  -L/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib -Wl,-rpath,/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib libwabt.a 

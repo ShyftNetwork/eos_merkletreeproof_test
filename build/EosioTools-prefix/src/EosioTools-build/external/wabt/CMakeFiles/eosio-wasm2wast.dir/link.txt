@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/eosio-wasm2wast.dir/src/tools/wasm2wat.cc.o  -o eosio-wasm2wast  -L/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib -Wl,-rpath,/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib libwabt.a 

@@ -1,0 +1,2 @@
+/home/abinesh/eosio.cdt/build/bin/eosio-ar qc libnative_eosio.a  CMakeFiles/native_eosio.dir/eosiolib.obj CMakeFiles/native_eosio.dir/crypto.obj
+/home/abinesh/eosio.cdt/build/bin/eosio-ranlib libnative_eosio.a

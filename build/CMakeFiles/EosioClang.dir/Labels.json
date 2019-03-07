@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioClang"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioClang.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioClang-complete.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-install.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-mkdir.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-download.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-update.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-patch.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-configure.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-build.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-stamp/EosioClang-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EosioClang"
+		],
+		"name" : "EosioClang"
+	}
+}

@@ -1,0 +1,1 @@
+/home/abinesh/eosio.cdt/build/bin/eosio-ld -fnative CMakeFiles/print_tests.dir/print_tests.obj -o print_tests 

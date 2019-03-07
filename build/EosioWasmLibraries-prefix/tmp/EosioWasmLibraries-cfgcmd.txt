@@ -1,0 +1,1 @@
+cmd='/usr/local/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/home/abinesh/eosio.cdt/build/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake;-DEOSIO_CDT_BIN=/home/abinesh/eosio.cdt/build/lib/cmake/eosio.cdt/;-DBASE_BINARY_DIR=/home/abinesh/eosio.cdt/build;-D__APPLE=;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,0 +1,1 @@
+/home/abinesh/eosio.cdt/build/bin/eosio-ld -fnative CMakeFiles/system_tests.dir/system_tests.obj -o system_tests 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/wasm-objdump.dir/src/tools/wasm-objdump.cc.o CMakeFiles/wasm-objdump.dir/src/binary-reader-objdump.cc.o  -o wasm-objdump  -L/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib -Wl,-rpath,/home/abinesh/eosio.cdt/build/EosioClang-prefix/src/EosioClang-build/./lib libwabt.a 

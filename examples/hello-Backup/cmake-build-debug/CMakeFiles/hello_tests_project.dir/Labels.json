@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_tests_project"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_tests_project.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_tests_project-complete.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-install.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-download.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-update.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-patch.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-configure.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-build.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hello_tests_project"
+		],
+		"name" : "hello_tests_project"
+	}
+}

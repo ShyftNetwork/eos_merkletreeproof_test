@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioWasmLibraries"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioWasmLibraries.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/CMakeFiles/EosioWasmLibraries-complete.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-install.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-mkdir.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-download.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-update.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-patch.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-configure.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-build.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/build/EosioWasmLibraries-prefix/src/EosioWasmLibraries-stamp/EosioWasmLibraries-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EosioWasmLibraries"
+		],
+		"name" : "EosioWasmLibraries"
+	}
+}

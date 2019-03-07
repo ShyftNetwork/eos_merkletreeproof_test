@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../libLLVMWebAssemblyAsmPrinter.a  CMakeFiles/LLVMWebAssemblyAsmPrinter.dir/WebAssemblyInstPrinter.cpp.o
+/usr/bin/ranlib ../../../libLLVMWebAssemblyAsmPrinter.a

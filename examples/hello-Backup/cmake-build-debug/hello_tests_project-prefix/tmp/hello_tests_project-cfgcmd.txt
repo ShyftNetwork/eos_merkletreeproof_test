@@ -1,0 +1,1 @@
+cmd='/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake;-DCMAKE_TOOLCHAIN_FILE=/usr/local/eosio.cdt/lib/cmake/eosio.cdt/EosioWasmToolchain.cmake;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

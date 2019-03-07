@@ -1,0 +1,5 @@
+/home/abinesh/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/abinesh/eosio.cdt/examples/hello
+-- Setting up Eosio Wasm Toolchain 1.5.0 at /usr/local/eosio.cdt
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/abinesh/eosio.cdt/examples/hello/cmake-build-debug

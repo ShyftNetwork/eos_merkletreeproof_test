@@ -1,0 +1,14 @@
+# Target labels
+ EosioTools
+# Source files and their labels
+/home/abinesh/eosio.cdt/build/CMakeFiles/EosioTools
+/home/abinesh/eosio.cdt/build/CMakeFiles/EosioTools.rule
+/home/abinesh/eosio.cdt/build/CMakeFiles/EosioTools-complete.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-install.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-mkdir.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-download.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-update.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-patch.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-configure.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-build.rule
+/home/abinesh/eosio.cdt/build/EosioTools-prefix/src/EosioTools-stamp/EosioTools-test.rule

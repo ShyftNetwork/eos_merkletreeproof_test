@@ -1,0 +1,2 @@
+/home/abinesh/eosio.cdt/build/bin/eosio-ar qc libeosio.a  CMakeFiles/eosio.dir/eosiolib.obj CMakeFiles/eosio.dir/crypto.obj
+/home/abinesh/eosio.cdt/build/bin/eosio-ranlib libeosio.a

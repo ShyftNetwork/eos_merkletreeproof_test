@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_project"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_project.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_project-complete.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-install.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-download.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-update.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-patch.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-configure.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-build.rule"
+		},
+		{
+			"file" : "/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_project-prefix/src/hello_project-stamp/hello_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hello_project"
+		],
+		"name" : "hello_project"
+	}
+}

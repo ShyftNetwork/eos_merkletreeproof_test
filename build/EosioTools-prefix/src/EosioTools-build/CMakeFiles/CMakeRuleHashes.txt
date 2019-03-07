@@ -1,0 +1,12 @@
+# Hashes of file build rules.
+ccfeaa0e4e1e302550467c868a784a1d external/wabt/CMakeFiles/eosio-pp-copy-to-bin
+0623518918fc9f379e06033e7b9fc395 external/wabt/CMakeFiles/eosio-wasm2wast-copy-to-bin
+df1fa892ba7064bab70abfaf9e5fd3ab external/wabt/CMakeFiles/eosio-wast2wasm-copy-to-bin
+5b923d0909bd7449023e661c0c12e085 external/wabt/CMakeFiles/spectest-interp-copy-to-bin
+c76ede123add73e252b2834d0fe717a2 external/wabt/CMakeFiles/wasm-interp-copy-to-bin
+39f6658f8c378b4f9bc3bb4c6bb8ab94 external/wabt/CMakeFiles/wasm-objdump-copy-to-bin
+b6bb0f0de9e64b9228ab97fa24b98abd external/wabt/CMakeFiles/wasm-opcodecnt-copy-to-bin
+3f82f809a476248adb229240a89320ac external/wabt/CMakeFiles/wasm-validate-copy-to-bin
+e3343d15a036f0ea1816c9cf4435362c external/wabt/CMakeFiles/wasm2c-copy-to-bin
+2ab907f9d10c3050ba157ef63b11a5e7 external/wabt/CMakeFiles/wast2json-copy-to-bin
+409c8ffae38c27473ce22eda6a1cdb68 external/wabt/CMakeFiles/wat-desugar-copy-to-bin

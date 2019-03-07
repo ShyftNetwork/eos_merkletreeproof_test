@@ -1,0 +1,14 @@
+# Target labels
+ hello_tests_project
+# Source files and their labels
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_tests_project
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_tests_project.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/CMakeFiles/hello_tests_project-complete.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-install.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-mkdir.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-download.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-update.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-patch.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-configure.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-build.rule
+/home/abinesh/eosio.cdt/examples/hello/cmake-build-debug/hello_tests_project-prefix/src/hello_tests_project-stamp/hello_tests_project-test.rule

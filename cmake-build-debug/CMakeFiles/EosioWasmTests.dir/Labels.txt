@@ -1,0 +1,14 @@
+# Target labels
+ EosioWasmTests
+# Source files and their labels
+/home/abinesh/eosio.cdt/cmake-build-debug/CMakeFiles/EosioWasmTests
+/home/abinesh/eosio.cdt/cmake-build-debug/CMakeFiles/EosioWasmTests.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/CMakeFiles/EosioWasmTests-complete.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-install.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-mkdir.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-download.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-update.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-patch.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-configure.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-build.rule
+/home/abinesh/eosio.cdt/cmake-build-debug/EosioWasmTests-prefix/src/EosioWasmTests-stamp/EosioWasmTests-test.rule
